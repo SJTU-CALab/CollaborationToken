@@ -47,4 +47,4 @@
 
 其次，对于经济和治理模型设计与项目产业界的实际需求之间的差距，需要与更多的社区和项目方合作，因此欢迎刚兴趣的项目方和社区一起深入参与整体框架的试用、优化或者建议。相关建议欢迎在讨论区留言。
 
-点击链接讨论留言[🔗](https://github.com/CryptoFly633/TokenizedCollaboration/issues/1)
+点击链接讨论留言[🔗](https://github.com/SJTU-CALab/CollaborationToken/issues/1)
