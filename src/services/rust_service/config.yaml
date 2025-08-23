@@ -1,0 +1,13 @@
+dest_path: /reports
+input_path: /repos
+listen_address: 0.0.0.0:50062
+timeout: 60
+debug: false
+ast_abstracts:
+  - rust_loop_src
+  - rust_selection_src
+  - rust_sequence_src
+
+
+
+

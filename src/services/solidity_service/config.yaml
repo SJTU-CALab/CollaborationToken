@@ -1,0 +1,14 @@
+dest_path: ./tmp/reports
+input_path: ./tmp/repos
+listen_address: 0.0.0.0:50054
+timeout: 60
+debug: false
+tags: true
+ast_abstracts:
+  - sol_loop_src
+  - sol_selection_src
+  - sol_sequence_src
+  - sol_tag_src
+
+
+
